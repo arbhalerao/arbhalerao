@@ -7,6 +7,7 @@
   - [Feature: Implemented LCS (Longest Common Substring) Command](https://github.com/redis/rueidis/pull/767)
   - [Bug: Ensure AUTH Command is Sent Before HELLO in NewClient Initialization](https://github.com/redis/rueidis/pull/791)
   - [Bug: Added SCORER and ADDSCORES Options to FT.AGGREGATE Command in Rueidis](https://github.com/redis/rueidis/pull/815)
+  - [Perf: Consolidate wire, sc, mu slices into muxwire struct to reduce memory overhead](https://github.com/redis/rueidis/pull/869)
 
 ---
 
