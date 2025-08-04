@@ -11,10 +11,4 @@ Currently, I’m working at [**Geminus Tech**](https://geminustech.com/) and [**
 Outside of work, I build small projects to explore ideas and learn by doing. Lately, I've been diving into `consensus algorithms` and `scalable access control`.  
 I spend a lot of time studying system design, reading papers, exploring open source projects, and contributing to a few — it's a big part of how I stay curious and grow.
 
-See [papers I've explored](https://github.com/arbhalerao/arbhalerao/blob/master/PAPERS.md)  
-Check out my [open source contributions](https://github.com/arbhalerao/arbhalerao/blob/master/OSS.md)  
-
 🌐 More about me at [**adityabhalerao.vercel.app**](https://adityabhalerao.vercel.app/)
-
-📬 Reach me at **adityab7968@gmail.com**  
-🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/bhalerao-aditya/)
