@@ -8,7 +8,6 @@ I mostly work with `Go`, `Python`, `Kubernetes`, and tools around `infrastructur
 
 Currently, I’m working at [**Geminus Space**](https://geminus.space/).
 
-Outside of work, I build small projects to explore ideas and learn by doing. Lately, I've been diving into `consensus algorithms` and `scalable access control`.  
-I spend a lot of time studying system design, reading papers, exploring open source projects, and contributing to a few — it's a big part of how I stay curious and grow.
+Outside of work, I build small projects to explore ideas and learn by doing. Lately, I've been diving into `consensus algorithms` and `scalable access control`. I spend a lot of time studying system design, reading papers, exploring open source projects, and contributing to a few — it's a big part of how I stay curious and grow.
 
 More about me at [**adityabhalerao.com**](https://www.adityabhalerao.com/) 
